@@ -1,0 +1,23 @@
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Database1.mdf
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Database1_log.ldf
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\ART GALLERY.csproj.GenerateResource.cache
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\ART GALLERY.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.introduction.resources
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.orders_uc.resources
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.events_uc.resources
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.seller_uc.resources
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.takeorder_uc.resources
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.manifest
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.application
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe.manifest
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.application
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.transport_uc.resources
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.workers_uc.resources
+C:\Users\aksha\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\ART GALLERY.csprojAssemblyReference.cache
